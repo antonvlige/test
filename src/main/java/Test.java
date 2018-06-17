@@ -1,3 +1,6 @@
 public class Test {
-    AS as = new AS();
+    public static void main(String[] args) {
+        AS as = new AS();
+
+    }
 }
